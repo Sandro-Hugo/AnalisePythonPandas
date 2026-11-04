@@ -1,0 +1,101 @@
+ID,Nome,Idade,Salário,Departamento,Ativo
+93810,Mariana Santos,53.0,3633.0,Vendas,False
+24592,Diego Ferreira,55.0,7089.0,,False
+13278,Pedro Almeida,22.0,3034.0,Recursos Humanos,True
+46048,Pedro Oliveira,37.0,2937.0,Marketing,True
+42098,Lucas Rodrigues,,3785.0,Jurídico,False
+39256,Julia Almeida,59.0,4099.0,Atendimento ao Cliente,True
+28289,,41.0,3374.0,Marketing,True
+23434,Ana Santos,53.0,9894.0,Vendas,True
+98696,Beatriz Almeida,57.0,2938.0,,False
+81482,Julia Almeida,23.0,3341.0,Recursos Humanos,True
+21395,Pedro Rodrigues,21.0,2885.0,Vendas,True
+87397,Ana Santos,55.0,9609.0,Recursos Humanos,False
+65302,Sofia Rodrigues,63.0,7548.0,Atendimento ao Cliente,True
+14165,Gabriel Santos,,5074.0,Recursos Humanos,True
+13905,,63.0,7857.0,,True
+22280,Mariana Oliveira,60.0,6850.0,Recursos Humanos,False
+38657,Carlos Rodrigues,28.0,7138.0,Atendimento ao Cliente,True
+40495,Sofia Souza,40.0,7711.0,Atendimento ao Cliente,True
+76237,Beatriz Silva,63.0,8965.0,Jurídico,False
+88907,Pedro Silva,46.0,8598.0,Vendas,True
+13478,Gabriel Rodrigues,56.0,6636.0,Jurídico,False
+83563,,47.0,4844.0,Atendimento ao Cliente,
+36062,Pedro Santos,45.0,7419.0,,False
+95181,Sofia Oliveira,32.0,6144.0,Marketing,False
+81426,Pedro Oliveira,40.0,2103.0,Vendas,False
+64987,Diego Almeida,21.0,8736.0,,False
+38893,Sofia Souza,34.0,5551.0,Recursos Humanos,True
+68878,Julia Ferreira,58.0,7206.0,Atendimento ao Cliente,False
+87236,Sofia Costa,41.0,5766.0,Marketing,False
+46463,Lucas Santos,49.0,5567.0,Vendas,False
+10851,Diego Souza,53.0,6274.0,,
+30926,Ana Santos,31.0,4212.0,Recursos Humanos,False
+65392,,39.0,9533.0,Vendas,True
+54597,,61.0,5960.0,Financeiro,False
+46421,Lucas Rodrigues,26.0,8764.0,Atendimento ao Cliente,False
+30379,Lucas Oliveira,36.0,4198.0,Jurídico,True
+38221,Diego Costa,35.0,4011.0,Jurídico,False
+54118,Pedro Almeida,,2709.0,Financeiro,True
+23396,Carlos Almeida,36.0,5692.0,Marketing,True
+22156,Julia Costa,60.0,5806.0,Financeiro,True
+59797,,25.0,7473.0,Jurídico,
+22676,Gabriel Santos,61.0,2235.0,Jurídico,False
+57052,Lucas Costa,65.0,4662.0,,True
+55082,Beatriz Rodrigues,46.0,3737.0,Marketing,False
+89131,Carlos Costa,62.0,4116.0,Financeiro,True
+44671,,27.0,9211.0,Jurídico,False
+15695,Sofia Silva,35.0,9209.0,Marketing,False
+70217,Lucas Oliveira,65.0,2083.0,Atendimento ao Cliente,False
+80284,Pedro Souza,24.0,,Marketing,False
+26361,Ana Oliveira,28.0,7898.0,Financeiro,False
+59615,Julia Rodrigues,50.0,6548.0,Jurídico,False
+20328,Pedro Rodrigues,56.0,7657.0,Marketing,False
+82357,Sofia Costa,49.0,7831.0,Atendimento ao Cliente,True
+48427,Mariana Souza,53.0,,Financeiro,True
+92397,Diego Silva,56.0,4410.0,Vendas,False
+91070,Ana Silva,31.0,7667.0,Marketing,
+57400,,51.0,7439.0,Atendimento ao Cliente,
+85674,Sofia Santos,36.0,5876.0,Vendas,True
+35203,Carlos Santos,38.0,4816.0,,False
+19116,Lucas Almeida,54.0,8110.0,,False
+16006,Diego Souza,36.0,4882.0,Marketing,True
+96673,Ana Santos,25.0,4219.0,Marketing,False
+39871,Diego Ferreira,36.0,3888.0,Recursos Humanos,True
+47930,Lucas Ferreira,41.0,3577.0,Vendas,False
+20458,Julia Oliveira,26.0,8085.0,Vendas,False
+40512,Mariana Costa,35.0,8243.0,Jurídico,True
+23238,Carlos Silva,30.0,3569.0,Recursos Humanos,True
+59823,,25.0,5966.0,Recursos Humanos,False
+46434,Lucas Rodrigues,42.0,6829.0,Atendimento ao Cliente,True
+69429,Gabriel Santos,,6297.0,Recursos Humanos,True
+93320,Gabriel Rodrigues,47.0,2823.0,Financeiro,False
+57819,Sofia Rodrigues,58.0,4426.0,Jurídico,False
+31319,Sofia Silva,22.0,3469.0,Atendimento ao Cliente,True
+58520,Sofia Rodrigues,57.0,7800.0,Marketing,True
+56566,Carlos Oliveira,21.0,,Financeiro,False
+37460,Carlos Oliveira,40.0,2446.0,Atendimento ao Cliente,
+97841,Diego Souza,47.0,7713.0,Jurídico,False
+44993,Lucas Rodrigues,55.0,7225.0,Jurídico,False
+99593,,35.0,6021.0,Financeiro,
+94939,,38.0,2100.0,Atendimento ao Cliente,False
+19358,Gabriel Oliveira,22.0,5845.0,Financeiro,
+89840,Mariana Oliveira,63.0,4791.0,Vendas,False
+93227,Sofia Almeida,46.0,2420.0,Jurídico,True
+32431,Carlos Santos,50.0,9059.0,,
+80010,Beatriz Silva,60.0,,Vendas,True
+42087,Diego Oliveira,46.0,,Jurídico,
+31417,Ana Rodrigues,,7156.0,Vendas,False
+70589,Ana Ferreira,62.0,3242.0,Vendas,True
+59735,Lucas Santos,50.0,6610.0,Jurídico,
+45382,Sofia Almeida,37.0,2697.0,Recursos Humanos,True
+93886,Beatriz Souza,34.0,2970.0,Atendimento ao Cliente,True
+83000,,42.0,5409.0,Marketing,True
+38785,Gabriel Almeida,45.0,8477.0,,True
+99733,Lucas Rodrigues,47.0,8354.0,,True
+52504,Carlos Almeida,26.0,5690.0,Recursos Humanos,False
+17331,Pedro Souza,,4435.0,Vendas,True
+40021,Pedro Ferreira,43.0,5512.0,Marketing,True
+14207,,25.0,,Financeiro,False
+51347,Lucas Almeida,,9865.0,Vendas,True
+62581,Carlos Rodrigues,22.0,9762.0,Marketing,True

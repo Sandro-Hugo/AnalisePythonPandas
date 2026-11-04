@@ -1,0 +1,101 @@
+ID,Nome,Idade,Salário,Departamento,Ativo
+93810,Mariana Santos,29,9997,Vendas,True
+24592,Lucas Ferreira,63,8552,Vendas,False
+13278,Lucas Costa,62,8641,Recursos Humanos,True
+46048,Julia Costa,40,3450,Financeiro,False
+42098,Beatriz Rodrigues,50,9220,Jurídico,False
+39256,Beatriz Souza,41,5377,Marketing,False
+28289,Sofia Rodrigues,25,2203,Vendas,False
+23434,Diego Almeida,21,3469,Financeiro,False
+98696,Diego Almeida,50,8033,Atendimento ao Cliente,True
+81482,Gabriel Souza,60,9573,Financeiro,False
+21395,Beatriz Costa,57,4721,Vendas,False
+87397,Carlos Silva,27,8409,Marketing,False
+65302,Carlos Oliveira,25,9625,Vendas,True
+14165,Beatriz Almeida,55,5372,Financeiro,False
+13905,Diego Santos,34,8571,Atendimento ao Cliente,False
+22280,Julia Almeida,53,7487,Financeiro,True
+38657,Diego Costa,37,9078,Vendas,False
+40495,Sofia Rodrigues,29,8021,Jurídico,False
+76237,Sofia Silva,43,8641,Financeiro,True
+88907,Carlos Rodrigues,25,4032,Jurídico,False
+13478,Gabriel Santos,36,4185,Vendas,True
+83563,Mariana Almeida,44,3304,Financeiro,False
+36062,Beatriz Costa,39,8450,Atendimento ao Cliente,False
+95181,Ana Rodrigues,31,7744,Recursos Humanos,False
+81426,Sofia Oliveira,49,2885,Recursos Humanos,True
+64987,Sofia Santos,55,5133,Jurídico,True
+38893,Mariana Souza,40,9144,Vendas,True
+68878,Beatriz Ferreira,60,2317,Jurídico,True
+87236,Beatriz Silva,62,9033,Vendas,False
+46463,Diego Ferreira,54,5855,Vendas,True
+10851,Pedro Silva,21,3822,Recursos Humanos,True
+30926,Carlos Ferreira,63,3634,Atendimento ao Cliente,True
+65392,Mariana Souza,56,8689,Atendimento ao Cliente,False
+54597,Ana Souza,40,9523,Financeiro,False
+46421,Diego Santos,63,5770,Jurídico,False
+30379,Carlos Costa,27,4864,Atendimento ao Cliente,False
+38221,Carlos Oliveira,29,4500,Marketing,False
+54118,Beatriz Costa,37,8721,Financeiro,True
+23396,Sofia Oliveira,28,8515,Financeiro,True
+22156,Mariana Almeida,27,9137,Recursos Humanos,False
+59797,Lucas Souza,56,3864,Jurídico,False
+22676,Mariana Almeida,30,3826,Atendimento ao Cliente,True
+57052,Gabriel Costa,38,2193,Atendimento ao Cliente,False
+55082,Sofia Costa,39,7406,Vendas,False
+89131,Carlos Souza,59,3582,Financeiro,True
+44671,Lucas Santos,34,5264,Jurídico,False
+15695,Gabriel Silva,42,4689,Jurídico,False
+70217,Diego Souza,34,4282,Jurídico,False
+80284,Diego Souza,64,9080,Vendas,False
+26361,Ana Santos,61,2568,Recursos Humanos,True
+59615,Ana Souza,37,9920,Atendimento ao Cliente,False
+20328,Carlos Silva,53,8335,Jurídico,True
+82357,Gabriel Santos,52,4286,Vendas,False
+48427,Sofia Souza,37,4876,Recursos Humanos,False
+92397,Mariana Costa,24,7255,Vendas,False
+91070,Lucas Oliveira,26,6173,Marketing,True
+57400,Diego Costa,61,5274,Financeiro,False
+85674,Lucas Costa,48,7566,Atendimento ao Cliente,False
+35203,Julia Souza,38,8911,Vendas,False
+19116,Carlos Santos,23,6392,Vendas,True
+16006,Julia Ferreira,21,4712,Atendimento ao Cliente,False
+96673,Julia Almeida,42,9694,Financeiro,True
+39871,Pedro Silva,29,2226,Marketing,True
+47930,Carlos Silva,61,2944,Recursos Humanos,False
+20458,Julia Ferreira,37,9184,Vendas,True
+40512,Carlos Souza,31,9949,Financeiro,True
+23238,Lucas Souza,49,4139,Recursos Humanos,False
+59823,Sofia Costa,56,3462,Recursos Humanos,True
+46434,Beatriz Almeida,48,6756,Recursos Humanos,False
+69429,Beatriz Rodrigues,56,9885,Marketing,True
+93320,Pedro Souza,21,4174,Marketing,True
+57819,Carlos Costa,28,2313,Recursos Humanos,False
+31319,Sofia Santos,25,2888,Jurídico,False
+58520,Ana Silva,65,6887,Atendimento ao Cliente,False
+56566,Carlos Souza,30,5559,Marketing,True
+37460,Beatriz Almeida,55,4831,Jurídico,False
+97841,Pedro Costa,23,7968,Jurídico,False
+44993,Lucas Almeida,44,8442,Vendas,False
+99593,Ana Oliveira,58,4569,Atendimento ao Cliente,False
+94939,Julia Silva,56,5574,Recursos Humanos,False
+19358,Julia Rodrigues,30,6966,Vendas,False
+89840,Pedro Rodrigues,48,6189,Vendas,False
+93227,Julia Costa,29,2947,Jurídico,True
+32431,Beatriz Souza,23,5155,Jurídico,False
+80010,Mariana Souza,40,9368,Jurídico,True
+42087,Ana Silva,44,6723,Recursos Humanos,True
+31417,Gabriel Silva,23,3557,Recursos Humanos,False
+70589,Ana Costa,43,4086,Vendas,True
+59735,Sofia Oliveira,34,2363,Vendas,True
+45382,Ana Santos,64,7806,Marketing,True
+93886,Beatriz Santos,36,5572,Marketing,True
+83000,Diego Santos,63,2013,Jurídico,True
+38785,Lucas Almeida,27,6259,Recursos Humanos,True
+99733,Carlos Souza,43,9582,Recursos Humanos,True
+52504,Diego Silva,56,8606,Vendas,True
+17331,Diego Santos,47,6410,Atendimento ao Cliente,True
+40021,Julia Ferreira,60,7626,Jurídico,True
+14207,Mariana Souza,30,7893,Marketing,False
+51347,Gabriel Souza,36,9702,Atendimento ao Cliente,True
+62581,Mariana Almeida,31,8078,Recursos Humanos,True
